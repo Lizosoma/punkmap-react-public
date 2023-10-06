@@ -1,0 +1,10 @@
+.dormBtnDis {
+  padding-top: 16px;
+  width: 74px;
+  height: 74px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  background-color: #bababa;
+}
